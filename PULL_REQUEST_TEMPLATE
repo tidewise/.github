@@ -15,8 +15,12 @@ If you want you can also add the shortcut link here
 <!-- Explain how you tested you PR, if there is a visual output,
      a GIF or image is welcome -->
 
-# Reminders, check what you did
-- [ ] Analysed if this PR modifies the UI, If so:
+# Checklist
+- [ ] Assign yourself  in the PR
+- [ ] Write unit tests (when relevant)
+- [ ] Run rubocop and rake tests locally
+- [ ] If this PR initialize a CMAKE package please [enable styling and linting](https://github.com/tidewise/wetpaint-buildconf/blob/master/README.md#enabling-styling-and-linting-checks-for-a-cmake-package)
+- [ ] Analyse if this PR modifies the UI, if so:
     - [ ] Tested Tupan's simulation (Charts) :world_map:
     - [ ] Tested Tupan's simulation (Hud) :joystick:
     - [ ] Tested ROV's simulation :joystick:
