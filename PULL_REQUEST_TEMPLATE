@@ -1,0 +1,22 @@
+<!--
+Depends on:
+- [ ]
+
+-->
+# What is this PR for
+<!-- A clear description ot what this PR do and the changes made.
+If you want you can also add the shortcut link here
+- [ ] [Shortcut](http://) -->
+
+# How I did it
+<!-- Explain a little bit of your implementation -->
+
+# Results, How I tested
+<!-- Explain how you tested you PR, if there is a visual output,
+     a GIF or image is welcome -->
+
+# Reminders, check what you did
+- [ ] Analysed if this PR modifies the UI, If so:
+    - [ ] Tested Tupan's simulation (Charts) :world_map:
+    - [ ] Tested Tupan's simulation (Hud) :joystick:
+    - [ ] Tested ROV's simulation :joystick:
